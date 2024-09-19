@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm run start:server`
+Runs the Json server:
+
+- [http://localhost:3005/users](http://localhost:3005/users)
+- [http://localhost:3005/albums](http://localhost:3005/albums)
+- [http://localhost:3005/photos](http://localhost:3005/photos)
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
