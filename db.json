@@ -5,14 +5,81 @@
       "name": "Dean White"
     },
     {
-      "id": "41e4",
-      "name": "Arthur Schmidt"
-    },
-    {
       "id": "cb49",
       "name": "Theodore Schimmel"
+    },
+    {
+      "id": "38d1",
+      "name": "Chester Lehner"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "6ae9",
+      "userId": "04a6",
+      "title": "Tasty Frozen Gloves"
+    },
+    {
+      "id": "2b1c",
+      "userId": "cb49",
+      "title": "Modern Rubber Chair"
+    },
+    {
+      "id": "ba7a",
+      "userId": "cb49",
+      "title": "Practical Frozen Table"
+    },
+    {
+      "id": "e470",
+      "userId": "38d1",
+      "title": "Practical Fresh Shoes"
+    }
+  ],
+  "photos": [
+    {
+      "id": "4ea0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40596",
+      "albumId": "6ae9"
+    },
+    {
+      "id": "4ccd",
+      "url": "https://loremflickr.com/150/150/abstract?lock=70036",
+      "albumId": "6ae9"
+    },
+    {
+      "id": "92b2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57945",
+      "albumId": "2b1c"
+    },
+    {
+      "id": "8475",
+      "url": "https://loremflickr.com/150/150/abstract?lock=77543",
+      "albumId": "ba7a"
+    },
+    {
+      "id": "fc71",
+      "url": "https://loremflickr.com/150/150/abstract?lock=50082",
+      "albumId": "ba7a"
+    },
+    {
+      "id": "1fb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79497",
+      "albumId": "e470"
+    },
+    {
+      "id": "df08",
+      "url": "https://loremflickr.com/150/150/abstract?lock=77526",
+      "albumId": "e470"
+    },
+    {
+      "id": "63ae",
+      "url": "https://loremflickr.com/150/150/abstract?lock=41879",
+      "albumId": "e470"
+    },
+    {
+      "id": "b56f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49083",
+      "albumId": "e470"
+    }
+  ]
 }
